@@ -1,0 +1,29 @@
+div {
+    background-color: aqua;
+    display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 50px;
+}
+
+
+
+input{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+}
+
+.tabela {
+    width: 100%;
+}
+
+table {
+    width: 100%;
+}
+
+textarea {
+    width: 100%; /* Deixa o textarea com largura total da coluna */
+    height: 100px; /* Define a altura do textarea */
+}
